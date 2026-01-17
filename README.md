@@ -1,51 +1,72 @@
-# 💰 Finanças Diária  
-**Sistema completo de controle financeiro pessoal**
+# 💰 Finanças Diária
 
-![React](https://img.shields.io/badge/React-18.2.0-006B7D?style=for-the-badge)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-3.3-556B2F?style=for-the-badge)
-![Base44](https://img.shields.io/badge/Base44-Backend-004F59?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-6B8E23?style=for-the-badge)
+Sistema completo de gestão financeira pessoal desenvolvido com **React**, **Tailwind CSS** e **Base44**.
 
-Finanças Diária é uma aplicação web moderna, rápida e responsiva para organização financeira pessoal.  
-O sistema oferece controle completo de contas, categorias, receitas, despesas, metas, viagens e aposentadoria — tudo isso com uma interface elegante baseada em **verde oliva** e **azul petróleo**.
+![Status](https://img.shields.io/badge/status-ativo-008B8B?style=flat-square)
+![React](https://img.shields.io/badge/react-18.2.0-008B8B?style=flat-square)
+![Tailwind](https://img.shields.io/badge/tailwindcss-3.3.6-008B8B?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-2D5016?style=flat-square)
 
 ---
 
-## 📋 Sobre o Projeto
-Você pode registrar transações, acompanhar sua evolução financeira, planejar o futuro, gerenciar metas, guardar dinheiro para viagens e simular cenários de aposentadoria.  
-Todas as informações ficam salvas no backend via **Base44**, garantindo segurança e escalabilidade.
+## 🎯 Sobre o Projeto
+
+**Finanças Diária** é uma aplicação web moderna, responsiva e intuitiva para controle financeiro pessoal. Desenvolvida com foco em **usabilidade**, **performance** e **design limpo**, oferece todas as ferramentas necessárias para gerenciar suas finanças do dia a dia.
+
+### 🌟 Destaques
+
+- ✅ **Dashboard intuitivo** com resumos financeiros em tempo real
+- ✅ **Gestão completa de transações** (receitas e despesas)
+- ✅ **Controle de múltiplas contas** (bancárias, cartões, carteira)
+- ✅ **Categorias personalizadas** para organizar melhor
+- ✅ **Metas financeiras** com acompanhamento de progresso
+- ✅ **Planejamento de aposentadoria** com simulações
+- ✅ **Planejamento de viagens** com orçamento detalhado
+- ✅ **Relatórios e gráficos** interativos com Recharts
+- ✅ **Exportação de dados** em CSV
+- ✅ **Interface responsiva** (mobile-first)
+- ✅ **Autenticação segura** via Base44
+- ✅ **Sistema de planos** (Teste, Assinante, Vitalício)
 
 ---
 
-## ✨ Funcionalidades
+## 📊 Funcionalidades Principais
 
-- 📊 **Dashboard completo** com resumos, gráficos e saldo total  
-- 💸 **Gestão de transações** (receitas e despesas)  
-- 🏦 **Contas bancárias, cartões e carteiras físicas**  
-- 🏷️ **Categorias personalizadas** com cores  
-- 🎯 **Metas e reservas financeiras**  
-- 🧮 **Simulador de aposentadoria**  
-- 🏖️ **Planejamento de viagens** com previsão de gastos  
-- 📈 **Relatórios detalhados com gráficos**  
-- 📂 **Exportação CSV**  
-- 📱 Interface 100% responsiva  
-- 🔐 Autenticação integrada via Base44  
-- 🧩 Design moderno com Tailwind + shadcn/ui  
-
----
-
-## 🧪 Tecnologias Utilizadas
-
-- **React 18.2**  
-- **TailwindCSS 3.3**  
-- **shadcn/ui** (componentes modernos)  
-- **Lucide Icons**  
-- **Recharts** (gráficos)  
-- **date‑fns**  
-- **Base44 Backend**  
-- **React Router 6**  
+| Funcionalidade | Descrição |
+|---|---|
+| 📈 **Dashboard** | Visão geral de receitas, despesas e saldo |
+| 💳 **Transações** | CRUD completo de receitas e despesas |
+| 🏦 **Contas** | Gerenciar contas bancárias e cartões |
+| 🏷️ **Categorias** | Criar categorias personalizadas |
+| 🎯 **Metas** | Definir e acompanhar metas financeiras |
+| 👴 **Aposentadoria** | Simulador de planejamento de aposentadoria |
+| ✈️ **Viagens** | Planejar viagens com orçamento |
+| 📋 **Relatórios** | Gráficos e análises detalhadas |
+| ⚙️ **Configurações** | Personalizar moeda, semana, categorias padrão |
+| 👤 **Perfil** | Gerenciar dados do usuário |
 
 ---
 
-## 🗂️ Estrutura do Projeto
+## 🚀 Tecnologias
+
+### Frontend
+- **React** 18.2.0 - Biblioteca UI
+- **React Router** 6.20.0 - Roteamento
+- **Tailwind CSS** 3.3.6 - Estilização
+- **Lucide React** - Ícones
+- **Recharts** - Gráficos interativos
+- **date-fns** - Manipulação de datas
+
+### Backend & Autenticação
+- **Base44** - Backend e autenticação
+- **Axios** - Requisições HTTP
+
+### Design
+- **Cores**: Verde Oliva (#2D5016) e Azul Petróleo (#006B7D)
+- **Tipografia**: Sistema responsivo
+- **Componentes**: shadcn/ui
+
+---
+
+## 📁 Estrutura do Projeto
 
