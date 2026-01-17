@@ -1,61 +1,51 @@
-# financas-master
-Sistema de gestão financeira pessoal
-# 💰 Finanças Master
+# 💰 Finanças Diária  
+**Sistema completo de controle financeiro pessoal**
 
-Sistema completo de gestão financeira pessoal desenvolvido com React, Tailwind CSS e Lucide Icons.
+![React](https://img.shields.io/badge/React-18.2.0-006B7D?style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-3.3-556B2F?style=for-the-badge)
+![Base44](https://img.shields.io/badge/Base44-Backend-004F59?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-6B8E23?style=for-the-badge)
 
-![React](https://img.shields.io/badge/react-18.2.0-blue.svg)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-3.3.6-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+Finanças Diária é uma aplicação web moderna, rápida e responsiva para organização financeira pessoal.  
+O sistema oferece controle completo de contas, categorias, receitas, despesas, metas, viagens e aposentadoria — tudo isso com uma interface elegante baseada em **verde oliva** e **azul petróleo**.
+
+---
 
 ## 📋 Sobre o Projeto
+Você pode registrar transações, acompanhar sua evolução financeira, planejar o futuro, gerenciar metas, guardar dinheiro para viagens e simular cenários de aposentadoria.  
+Todas as informações ficam salvas no backend via **Base44**, garantindo segurança e escalabilidade.
 
-Finanças Master é uma aplicação web moderna e responsiva para controle financeiro pessoal, oferecendo:
-
-- 📊 Dashboard com resumo de receitas, despesas e saldo
-- 💸 Gestão de transações (receitas e despesas)
-- 🏦 Contas bancárias e cartões
-- 🏷️ Categorias personalizadas
-- 🎯 Metas e reservas financeiras
-- 🏖️ Planejamento de viagens
-- 👴 Simulador de aposentadoria
-- 📈 Relatórios e gráficos interativos
-- 📂 Exportação de dados (CSV)
+---
 
 ## ✨ Funcionalidades
 
-| ✅ | Funcionalidade |
-|---|----------------|
-| ✅ | Dashboard intuitivo |
-| ✅ | CRUD de transações |
-| ✅ | Controle de múltiplas contas |
-| ✅ | Categorias de receita/despesa |
-| ✅ | Metas financeiras |
-| ✅ | Planejamento de viagens |
-| ✅ | Simulador de aposentadoria |
-| ✅ | Relatórios com Recharts |
-| ✅ | Exportação CSV |
-| ✅ | Interface responsiva (mobile‑first) |
-| ✅ | Autenticação simples (localStorage) |
+- 📊 **Dashboard completo** com resumos, gráficos e saldo total  
+- 💸 **Gestão de transações** (receitas e despesas)  
+- 🏦 **Contas bancárias, cartões e carteiras físicas**  
+- 🏷️ **Categorias personalizadas** com cores  
+- 🎯 **Metas e reservas financeiras**  
+- 🧮 **Simulador de aposentadoria**  
+- 🏖️ **Planejamento de viagens** com previsão de gastos  
+- 📈 **Relatórios detalhados com gráficos**  
+- 📂 **Exportação CSV**  
+- 📱 Interface 100% responsiva  
+- 🔐 Autenticação integrada via Base44  
+- 🧩 Design moderno com Tailwind + shadcn/ui  
 
-## 🚀 Tecnologias
+---
 
-- **React** 18.2.0
-- **React Router** 6.20.0
-- **Tailwind CSS** 3.3.6
-- **Lucide React** (ícones)
-- **Recharts** (gráficos)
-- **date‑fns** (manipulação de datas)
-- **Axios** (requisições HTTP – caso queira conectar a um backend)
+## 🧪 Tecnologias Utilizadas
 
-## 📦 Instalação
+- **React 18.2**  
+- **TailwindCSS 3.3**  
+- **shadcn/ui** (componentes modernos)  
+- **Lucide Icons**  
+- **Recharts** (gráficos)  
+- **date‑fns**  
+- **Base44 Backend**  
+- **React Router 6**  
 
-### Pré‑requisitos
+---
 
-- **Node.js** ≥ 16 (https://nodejs.org/)
-- **npm** (vem com o Node) ou **yarn**
-- **Git** (https://git-scm.com/)
-
-### Passo a passo
-
+## 🗂️ Estrutura do Projeto
 
